@@ -3,4 +3,5 @@
 Prosta zabawka do ćwieczenia dodawania.
 
 Lokalnie: `npm run start`  
-Zdalnie: ?
+Zdalnie: https://bzoz.github.io/obliczeniowiec/
+
